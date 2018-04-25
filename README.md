@@ -1,2 +1,2 @@
 # DIHT_OOP
-My soluions of some algorithms.
+My solutions of some algorithms.
