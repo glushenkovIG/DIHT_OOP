@@ -1,0 +1,867 @@
+MacBook-Pro-Grigory-2:reader-writer-lock ivan$ ls
+MacBook-Pro-Grigory-2:reader-writer-lock ivan$ cd ..
+MacBook-Pro-Grigory-2:2-cond-var ivan$ mkdir blocking-queue
+MacBook-Pro-Grigory-2:2-cond-var ivan$ cd blocking-queue/
+MacBook-Pro-Grigory-2:blocking-queue ivan$ ls
+MacBook-Pro-Grigory-2:blocking-queue ivan$ vim solution.hpp
+MacBook-Pro-Grigory-2:blocking-queue ivan$ 
+
+
+  [Восстановлен 20 марта 2018 г., 16:53:11]
+Last login: Tue Mar 20 16:53:11 on ttys001
+MacBook-Pro-Grigory-2:blocking-queue ivan$ ls
+MacBook-Pro-Grigory-2:blocking-queue ivan$ cd ..
+MacBook-Pro-Grigory-2:2-cond-var ivan$ cd ..
+MacBook-Pro-Grigory-2:solutions ivan$ cd 1-mutex/
+MacBook-Pro-Grigory-2:1-mutex ivan$ ls
+peterson
+MacBook-Pro-Grigory-2:1-mutex ivan$ cd tricky/
+MacBook-Pro-Grigory-2:tricky ivan$ ls
+MacBook-Pro-Grigory-2:tricky ivan$ vim tricky.md
+MacBook-Pro-Grigory-2:tricky ivan$ ls
+tricky.md
+MacBook-Pro-Grigory-2:tricky ivan$ cd ..
+MacBook-Pro-Grigory-2:1-mutex ivan$ cd try-lock/
+MacBook-Pro-Grigory-2:try-lock ivan$ vim solution.hpp
+MacBook-Pro-Grigory-2:try-lock ivan$ ls
+MacBook-Pro-Grigory-2:try-lock ivan$ man execlp
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+chdir: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+MacBook-Pro-Grigory-2:try-lock ivan$ man dup2
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+chdir: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+MacBook-Pro-Grigory-2:try-lock ivan$ man execlp
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+chdir: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+MacBook-Pro-Grigory-2:try-lock ivan$ man dup2
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+chdir: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+MacBook-Pro-Grigory-2:try-lock ivan$ 
+MacBook-Pro-Grigory-2:try-lock ivan$ vim alphae
+MacBook-Pro-Grigory-2:try-lock ivan$ vim ~/alphae.txt 
+MacBook-Pro-Grigory-2:try-lock ivan$ ls
+MacBook-Pro-Grigory-2:try-lock ivan$ cd /
+MacBook-Pro-Grigory-2:/ ivan$ ls
+Applications			Volumes				home				tmp
+Library				bin				installer.failurerequests	usr
+Network				cores				net				var
+System				dev				private
+Users				etc				sbin
+MacBook-Pro-Grigory-2:/ ivan$ cd /
+MacBook-Pro-Grigory-2:/ ivan$ cd
+MacBook-Pro-Grigory-2:~ ivan$ ls
+2016_12_22_ghandcraft_backup.tar	Movies					alphae.txt
+Applications				Music					java_error_in_datagrip.hprof
+Desktop					Pictures				java_error_in_pycharm.hprof
+Documents				Public					postgresql_96.app.zip
+Downloads				PycharmProjects
+Library					VirtualBox VMs
+MacBook-Pro-Grigory-2:~ ivan$ vim alphae.txt 
+MacBook-Pro-Grigory-2:~ ivan$ ls
+2016_12_22_ghandcraft_backup.tar	Movies					alphae.txt
+Applications				Music					java_error_in_datagrip.hprof
+Desktop					Pictures				java_error_in_pycharm.hprof
+Documents				Public					postgresql_96.app.zip
+Downloads				PycharmProjects
+Library					VirtualBox VMs
+MacBook-Pro-Grigory-2:~ ivan$ cd Documents/
+MacBook-Pro-Grigory-2:Documents ivan$ LS
+1-kurs-vesna-2016_17.pdf
+Arduino
+Informatic
+Informatic_MIPT
+MIPT
+Matan.pdf
+Microsoft Office Standard 2016 ver.15.31 (170216) [update and License Installer] [64-bit]
+Nata
+Parallels
+Sony
+ViberDownloads
+Volnorez
+chain.json
+ghandcraft.com
+main.tcc
+resume.html
+Фотки
+MacBook-Pro-Grigory-2:Documents ivan$ CD MIPT/
+MacBook-Pro-Grigory-2:Documents ivan$ cd 
+.DS_Store
+.localized
+.parallels-vm-directory/
+.txt
+1-kurs-vesna-2016_17.pdf
+Arduino/
+Informatic/
+Informatic_MIPT/
+MIPT/
+Matan.pdf
+Microsoft Office Standard 2016 ver.15.31 (170216) [update and License Installer] [64-bit]/
+Nata/
+Parallels/
+Sony/
+ViberDownloads/
+Volnorez/
+chain.json
+ghandcraft.com/
+main.tcc
+resume.html
+Фотки/
+MacBook-Pro-Grigory-2:Documents ivan$ cd MIPT/
+.DS_Store       1 семестр/      3 семестр/      Database/       Laboratory/     Test/           VK_cup/         oop_homework/
+.idea/          2 семестр/      Acos/           English/        Python/         Tpcc/           WebProgramming/ 
+MacBook-Pro-Grigory-2:Documents ivan$ cd MIPT/T
+Test/ Tpcc/ 
+MacBook-Pro-Grigory-2:Documents ivan$ cd MIPT/Tpcc/solutions
+MacBook-Pro-Grigory-2:solutions ivan$ ls
+1-mutex			3-fine-grained		5-memory-model		7-linearizability	README.md
+2-cond-var		4-cache			6-lock-free		8-consensus
+MacBook-Pro-Grigory-2:solutions ivan$ cd 2-cond-var/
+MacBook-Pro-Grigory-2:2-cond-var ivan$ ls
+semaphore
+MacBook-Pro-Grigory-2:2-cond-var ivan$ cd semaphore/
+MacBook-Pro-Grigory-2:semaphore ivan$ ls
+solution.hpp
+MacBook-Pro-Grigory-2:semaphore ivan$ vim solution.hpp 
+MacBook-Pro-Grigory-2:semaphore ivan$ cd ../..
+MacBook-Pro-Grigory-2:solutions ivan$ ls
+1-mutex			3-fine-grained		5-memory-model		7-linearizability	README.md
+2-cond-var		4-cache			6-lock-free		8-consensus
+MacBook-Pro-Grigory-2:solutions ivan$ cd 3-fine-grained/
+MacBook-Pro-Grigory-2:3-fine-grained ivan$ ls
+solution.hpp
+MacBook-Pro-Grigory-2:3-fine-grained ivan$ mkdir hash-table
+MacBook-Pro-Grigory-2:3-fine-grained ivan$ mv solution.hpp hash-table/solution.hpp
+MacBook-Pro-Grigory-2:3-fine-grained ivan$ ls
+hash-table
+MacBook-Pro-Grigory-2:3-fine-grained ivan$ cd hash-table/
+MacBook-Pro-Grigory-2:hash-table ivan$ ls
+solution.hpp
+MacBook-Pro-Grigory-2:hash-table ivan$ 
+  [Восстановлен 28 марта 2018 г., 17:10:58]
+Last login: Wed Mar 28 17:10:57 on ttys000
+MacBook-Pro-Grigory-2:hash-table ivan$ ды
+-bash: ды: command not found
+MacBook-Pro-Grigory-2:hash-table ivan$ ls
+solution.hpp
+MacBook-Pro-Grigory-2:hash-table ivan$ cd ..
+MacBook-Pro-Grigory-2:3-fine-grained ivan$ cd ../../..
+MacBook-Pro-Grigory-2:MIPT ivan$ cd ../
+MacBook-Pro-Grigory-2:Documents ivan$ cd MIPT/
+MacBook-Pro-Grigory-2:MIPT ivan$ ls
+1 семестр		Acos			Laboratory		Tpcc			oop_homework
+2 семестр		Database		Python			VK_cup
+3 семестр		English			Test			WebProgramming
+MacBook-Pro-Grigory-2:MIPT ivan$ cd Acos/
+MacBook-Pro-Grigory-2:Acos ivan$ ls
+2017		Lections	Seminars
+MacBook-Pro-Grigory-2:Acos ivan$ cd 2017/
+MacBook-Pro-Grigory-2:2017 ivan$ ls
+693	common
+MacBook-Pro-Grigory-2:2017 ivan$ cd common/
+MacBook-Pro-Grigory-2:common ivan$ ls
+SVN-методичка.pdf		shell-first-steps-20180211.pdf	tests				Отладка.pdf
+examples			tasks				Система оценок.pdf
+MacBook-Pro-Grigory-2:common ivan$ cd examples/
+MacBook-Pro-Grigory-2:examples ivan$ ls
+fork-cout.c++	malloc.c	realloc.c
+MacBook-Pro-Grigory-2:examples ivan$ vim fork-cout.c++ 
+MacBook-Pro-Grigory-2:examples ivan$ cd ..
+MacBook-Pro-Grigory-2:common ivan$ cd ..
+MacBook-Pro-Grigory-2:2017 ivan$ ls
+693	common
+MacBook-Pro-Grigory-2:2017 ivan$ cd 693/
+MacBook-Pro-Grigory-2:693 ivan$ ls
+GlushenkovIvan
+MacBook-Pro-Grigory-2:693 ivan$ cd GlushenkovIvan/
+MacBook-Pro-Grigory-2:GlushenkovIvan ivan$ ls
+cmake-build-debug	strings.c		test-2.txt		test-koi.txt		test-sort.txt
+results-utf		task1			test-eof.txt		test-quotes.txt		test-tricky.txt
+strings			test-1.txt		test-err.txt		test-small.txt
+MacBook-Pro-Grigory-2:GlushenkovIvan ivan$ cd ..
+MacBook-Pro-Grigory-2:693 ivan$ cd ..
+MacBook-Pro-Grigory-2:2017 ivan$ cd ..
+MacBook-Pro-Grigory-2:Acos ivan$ ls
+2017		Lections	Seminars
+MacBook-Pro-Grigory-2:Acos ivan$ cd Seminars/
+MacBook-Pro-Grigory-2:Seminars ivan$ ls
+CMakeLists.txt		sem1			sem3_09-03-2018.c	solution.c		strings.h
+cmake-build-debug	sem2_2			sem4_16-03-2018		solution.h		strings_v2
+main.c			sem3_09-03-2018		sem5_23-03-2018		strings
+MacBook-Pro-Grigory-2:Seminars ivan$ ls
+CMakeLists.txt		sem1			sem3_09-03-2018.c	solution.c		strings.h
+cmake-build-debug	sem2_2			sem4_16-03-2018		solution.h		strings_v2
+main.c			sem3_09-03-2018		sem5_23-03-2018		strings
+MacBook-Pro-Grigory-2:Seminars ivan$ mkdir sem6_30-03-2018
+MacBook-Pro-Grigory-2:Seminars ivan$ cd sem6_30-03-2018/
+MacBook-Pro-Grigory-2:sem6_30-03-2018 ivan$ ls
+MacBook-Pro-Grigory-2:sem6_30-03-2018 ivan$ vim a.c
+MacBook-Pro-Grigory-2:sem6_30-03-2018 ivan$ man wait
+MacBook-Pro-Grigory-2:sem6_30-03-2018 ivan$ ls
+a.c	a.out
+MacBook-Pro-Grigory-2:sem6_30-03-2018 ivan$ cd ..
+MacBook-Pro-Grigory-2:Seminars ivan$ cd ..
+MacBook-Pro-Grigory-2:Acos ivan$ cd ../../..
+MacBook-Pro-Grigory-2:~ ivan$ ls
+2016_12_22_ghandcraft_backup.tar	Movies					alphae.txt
+Applications				Music					java_error_in_datagrip.hprof
+Desktop					Pictures				java_error_in_pycharm.hprof
+Documents				Public					postgresql_96.app.zip
+Downloads				PycharmProjects
+Library					VirtualBox VMs
+MacBook-Pro-Grigory-2:~ ivan$ cd Documents/MIPT/Tpcc/
+MacBook-Pro-Grigory-2:Tpcc ivan$ ls
+solutions			solutions_backup_branch		solutions_old
+solutions_backup		solutions_backup_for_kostya	tpcc-course-2018
+MacBook-Pro-Grigory-2:Tpcc ivan$ cd tpcc-course-2018/p
+-bash: cd: tpcc-course-2018/p: No such file or directory
+MacBook-Pro-Grigory-2:Tpcc ivan$ cd tpcc-course-2018/
+MacBook-Pro-Grigory-2:tpcc-course-2018 ivan$ ls
+common		docs		infra		readme.md	style		tasks		tpcclib
+MacBook-Pro-Grigory-2:tpcc-course-2018 ivan$ ls
+common		docs		infra		readme.md	style		tasks		tpcclib
+MacBook-Pro-Grigory-2:tpcc-course-2018 ivan$ cd ..
+MacBook-Pro-Grigory-2:Tpcc ivan$ cd ..
+MacBook-Pro-Grigory-2:MIPT ivan$ cd Acos/
+MacBook-Pro-Grigory-2:Acos ivan$ ls
+2017		Lections	Seminars
+MacBook-Pro-Grigory-2:Acos ivan$ cd 2017/
+MacBook-Pro-Grigory-2:2017 ivan$ ls
+693	common
+MacBook-Pro-Grigory-2:2017 ivan$ cd common/
+MacBook-Pro-Grigory-2:common ivan$ ls
+SVN-методичка.pdf		shell-first-steps-20180211.pdf	tests				Отладка.pdf
+examples			tasks				Система оценок.pdf
+MacBook-Pro-Grigory-2:common ivan$ cd tasks/
+MacBook-Pro-Grigory-2:tasks ivan$ ls
+ipc.pipes.txt			Файлы и ФС.pdf			Задача-1-строки.pdf
+MacBook-Pro-Grigory-2:tasks ivan$ open Файлы\ и\ ФС.pdf 
+MacBook-Pro-Grigory-2:tasks ivan$ ды
+-bash: ды: command not found
+MacBook-Pro-Grigory-2:tasks ivan$ man argv
+No manual entry for argv
+MacBook-Pro-Grigory-2:tasks ivan$ man main
+No manual entry for main
+MacBook-Pro-Grigory-2:tasks ivan$ ls
+ipc.pipes.txt			Файлы и ФС.pdf			Задача-1-строки.pdf
+MacBook-Pro-Grigory-2:tasks ivan$ cd ..
+MacBook-Pro-Grigory-2:common ivan$ cd ..
+MacBook-Pro-Grigory-2:2017 ivan$ cd ..
+MacBook-Pro-Grigory-2:Acos ivan$  cd Seminars/
+MacBook-Pro-Grigory-2:Seminars ivan$ ls
+CMakeLists.txt		sem1			sem3_09-03-2018.c	sem6_30-03-2018		strings
+cmake-build-debug	sem2_2			sem4_16-03-2018		solution.c		strings.h
+main.c			sem3_09-03-2018		sem5_23-03-2018		solution.h		strings_v2
+MacBook-Pro-Grigory-2:Seminars ivan$ cat sem1/
+a           a.out       a.out.dSYM/ test        test.c      vim         
+MacBook-Pro-Grigory-2:Seminars ivan$ cat sem1/test.c sem2_2/sem2
+sem2    sem2.c  
+MacBook-Pro-Grigory-2:Seminars ivan$ cat sem1/test.c sem2_2/sem2
+sem2    sem2.c  
+MacBook-Pro-Grigory-2:Seminars ivan$ cat sem1/test.c sem2_2/sem2.c sem3_09-03-2018/
+.idea/               cmake-build-debug/   easy                 easy_second_version  readme.md            
+MacBook-Pro-Grigory-2:Seminars ivan$ cat sem1/test.c sem2_2/sem2.c sem3_09-03-2018/easy
+#include<stdio.h>
+int main(){
+	char c;
+	while((c = getchar()) != EOF){
+		putchar(c);
+	}
+	return 0;
+}
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+  char* s = malloc(1);
+  int curr;
+  int i = 0;
+  while((curr = getchar()) != EOF){
+    i++;
+    s = realloc(s, i);
+    s[i - 1] = curr; 
+  } 
+  //printf("%d %p %p\n", i, s, p);
+  s = realloc(s, i + 1);
+  s[i - 1] = 0;
+  puts(s);
+}
+
+a = ls -i easy
+b = ls -i easy_second_version
+if [ $a -le $b ]
+ 
+MacBook-Pro-Grigory-2:Seminars ivan$ cat sem1/test.c sem2_2/sem2.c se
+#include<stdio.h>
+int main(){
+	char c;
+	while((c = getchar()) != EOF){
+		putchar(c);
+	}
+	return 0;
+}
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+  char* s = malloc(1);
+  int curr;
+  int i = 0;
+  while((curr = getchar()) != EOF){
+    i++;
+    s = realloc(s, i);
+    s[i - 1] = curr; 
+  } 
+  //printf("%d %p %p\n", i, s, p);
+  s = realloc(s, i + 1);
+  s[i - 1] = 0;
+  puts(s);
+}
+
+cat: se: No such file or directory
+MacBook-Pro-Grigory-2:Seminars ivan$ cat sem1/test.c sem2_2/sem2.c sem3_09-03-2018/easy sem
+sem1/              sem3_09-03-2018/   sem4_16-03-2018/   sem6_30-03-2018/   
+sem2_2/            sem3_09-03-2018.c  sem5_23-03-2018/   
+MacBook-Pro-Grigory-2:Seminars ivan$ cat sem1/test.c sem2_2/sem2.c sem3_09-03-2018/easy sem4_16-03-2018/
+a.out    cat.c    my_ls    my_ls.c  
+MacBook-Pro-Grigory-2:Seminars ivan$ cat sem1/test.c sem2_2/sem2.c sem3_09-03-2018/easy sem4_16-03-2018/my_ls.c sem5_23-03-2018/
+a.c    a.out  hw     hw.c   
+MacBook-Pro-Grigory-2:Seminars ivan$ cat sem1/test.c sem2_2/sem2.c sem3_09-03-2018/easy sem4_16-03-2018/my_ls.c sem5_23-03-2018/
+a.c    a.out  hw     hw.c   
+MacBook-Pro-Grigory-2:Seminars ivan$ cat sem1/test.c sem2_2/sem2.c sem3_09-03-2018/easy sem4_16-03-2018/my_ls.c sem5_23-03-2018/hw 
+hw    hw.c  
+MacBook-Pro-Grigory-2:Seminars ivan$ cat sem1/test.c sem2_2/sem2.c sem3_09-03-2018/easy sem4_16-03-2018/my_ls.c sem5_23-03-2018/hw.c sem6_30-03-2018/a.
+a.c    a.out  
+MacBook-Pro-Grigory-2:Seminars ivan$ cat sem1/test.c sem2_2/sem2.c sem3_09-03-2018/easy sem4_16-03-2018/my_ls.c sem5_23-03-2018/hw.c sem6_30-03-2018/a.c
+#include<stdio.h>
+int main(){
+	char c;
+	while((c = getchar()) != EOF){
+		putchar(c);
+	}
+	return 0;
+}
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+  char* s = malloc(1);
+  int curr;
+  int i = 0;
+  while((curr = getchar()) != EOF){
+    i++;
+    s = realloc(s, i);
+    s[i - 1] = curr; 
+  } 
+  //printf("%d %p %p\n", i, s, p);
+  s = realloc(s, i + 1);
+  s[i - 1] = 0;
+  puts(s);
+}
+
+a = ls -i easy
+b = ls -i easy_second_version
+if [ $a -le $b ]
+ 
+#include <stdio.h>
+#include <stdlib.h>
+#include <dirent.h>
+#include <sys/dir.h>
+
+int main(int argc, char** argv){
+	DIR* d = opendir(argv[1]);
+	if(d == NULL){
+		perror("Orda-sasat");
+		exit(10);
+	}
+	struct dirent* curr_dir;
+	while((curr_dir = readdir(d)) != NULL){
+		printf("%s \n", curr_dir->d_name);		
+	}
+}
+#include <stdio.h>
+
+int main(int argc, char** argv){
+  printf("%s \n", "HW");
+  return 0;
+}
+#include <stdio.h>
+#include <stdlib.h>
+
+void do_fork(char* f, int r, int w, int c){
+  pid_t p = fork();
+  if(!p){
+    if(r != 0){
+      dup2(r, 0);
+      close(r);
+    }
+    if(w != 1){
+      dup2(w, 1);
+      close(w);
+    }
+    if(c){
+      close(c);
+    }
+    execlp(f, f, NULL);
+    perror("execlp did't work");
+    exit(10);
+  }
+}
+
+int main(int argc, char** argv){
+  int p[2];
+  pipe(p);
+  do_fork(argv[1], 0, p[1], p[0]);
+  close(p[1]);
+
+  do_fork(argv[2], p[0], 1, -1);
+  close(p[0]);
+  wait(0);
+  wait(0);
+  printf("%s \n", "done");
+  /*
+  while(1){
+    if(wait(&p[0])){
+      printf("%s \n", "Done");
+    }
+  }
+  */
+  return 0;
+}
+
+MacBook-Pro-Grigory-2:Seminars ivan$ cat sem5_23-03-2018/
+a.c    a.out  hw     hw.c   
+MacBook-Pro-Grigory-2:Seminars ivan$ cat sem5_23-03-2018/a.c
+#include <stdio.h>
+#include <stdlib.h>
+
+void do_fork(char* f, int r, int w){
+  pid_t p = fork();
+  if(!p){
+    if(r != 0){
+      dup2(r, 0);
+      close(r);
+    }
+    if(w != 1){
+      dup2(w, 1);
+      close(w);
+    }
+    execlp(f, f, NULL);
+    perror("execlp did't work");
+    exit(10);
+  }
+}
+
+int main(int argc, char** argv){
+  printf("%s \n ",  "Done");
+  int p[2];
+  pipe(p);
+  do_fork(argv[1], 0, p[1]);
+  close(p[1]);
+  do_fork(argv[2], p[0], 1);
+  close(p[0]);
+  return 0;
+}
+MacBook-Pro-Grigory-2:Seminars ivan$ man open
+MacBook-Pro-Grigory-2:Seminars ivan$ man getChar
+No manual entry for getChar
+MacBook-Pro-Grigory-2:Seminars ivan$ man getchar
+MacBook-Pro-Grigory-2:Seminars ivan$ man getchar
+MacBook-Pro-Grigory-2:Seminars ivan$ sl
+-bash: sl: command not found
+MacBook-Pro-Grigory-2:Seminars ivan$ ls
+CMakeLists.txt		sem1			sem3_09-03-2018.c	sem6_30-03-2018		strings
+cmake-build-debug	sem2_2			sem4_16-03-2018		solution.c		strings.h
+main.c			sem3_09-03-2018		sem5_23-03-2018		solution.h		strings_v2
+MacBook-Pro-Grigory-2:Seminars ivan$ cd ..
+MacBook-Pro-Grigory-2:Acos ivan$ cd ..
+MacBook-Pro-Grigory-2:MIPT ivan$ cd Acos/
+MacBook-Pro-Grigory-2:Acos ivan$ CD 2017/
+.DS_Store  .idea/     .svn/      693/       common/    
+MacBook-Pro-Grigory-2:Acos ivan$ CD 2017/693/
+.DS_Store       GlushenkovIvan/ 
+MacBook-Pro-Grigory-2:Acos ivan$ CD 2017/693/GlushenkovIvan/
+MacBook-Pro-Grigory-2:Acos ivan$ ls
+2017		Lections	Seminars
+MacBook-Pro-Grigory-2:Acos ivan$ cd 2017/
+MacBook-Pro-Grigory-2:2017 ivan$ ls
+693	common
+MacBook-Pro-Grigory-2:2017 ivan$ cd 693
+MacBook-Pro-Grigory-2:693 ivan$ ls
+GlushenkovIvan
+MacBook-Pro-Grigory-2:693 ivan$ cd 
+.DS_Store       GlushenkovIvan/ 
+MacBook-Pro-Grigory-2:693 ivan$ cd GlushenkovIvan/
+MacBook-Pro-Grigory-2:GlushenkovIvan ivan$ ls
+strings.c	task2
+MacBook-Pro-Grigory-2:GlushenkovIvan ivan$ cd task2/
+MacBook-Pro-Grigory-2:task2 ivan$ ls
+sed.c
+MacBook-Pro-Grigory-2:task2 ivan$ gcc sed.c -o sed
+sed.c:7:34: error: expected ')'
+  while((curr_symb = fgetc(file)){
+                                 ^
+sed.c:7:8: note: to match this '('
+  while((curr_symb = fgetc(file)){
+       ^
+sed.c:10:1: error: expected statement
+}
+^
+sed.c:19:5: warning: implicit declaration of function 'fing_and_replace' is invalid in C99 [-Wimplicit-function-declaration]
+    fing_and_replace(argv[i]);
+    ^
+1 warning and 2 errors generated.
+MacBook-Pro-Grigory-2:task2 ivan$ gcc sed.c -o sed
+sed.c:7:34: error: expected ')'
+  while((curr_symb = fgetc(file)){
+                                 ^
+sed.c:7:8: note: to match this '('
+  while((curr_symb = fgetc(file)){
+       ^
+sed.c:10:1: error: expected statement
+}
+^
+sed.c:19:5: warning: implicit declaration of function 'fing_and_replace' is invalid in C99 [-Wimplicit-function-declaration]
+    fing_and_replace(argv[i]);
+    ^
+1 warning and 2 errors generated.
+MacBook-Pro-Grigory-2:task2 ivan$ gcc sed.c -o sed
+sed.c:19:5: warning: implicit declaration of function 'fing_and_replace' is invalid in C99 [-Wimplicit-function-declaration]
+    fing_and_replace(argv[i]);
+    ^
+1 warning generated.
+Undefined symbols for architecture x86_64:
+  "_fing_and_replace", referenced from:
+      _main in sed-4c10ed.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+MacBook-Pro-Grigory-2:task2 ivan$ gcc sed.c -o sed
+sed.c:19:22: warning: incompatible pointer types passing 'char *' to parameter of type 'FILE *' (aka 'struct __sFILE *')
+      [-Wincompatible-pointer-types]
+    find_and_replace(argv[i]);
+                     ^~~~~~~
+sed.c:5:29: note: passing argument to parameter 'file' here
+void find_and_replace(FILE* file){
+                            ^
+1 warning generated.
+MacBook-Pro-Grigory-2:task2 ivan$ ls
+sed	sed.c
+MacBook-Pro-Grigory-2:task2 ivan$ vim a.txt
+MacBook-Pro-Grigory-2:task2 ivan$ ./sed a.txt
+MacBook-Pro-Grigory-2:task2 ivan$ ls
+a.txt	sed	sed.c
+MacBook-Pro-Grigory-2:task2 ivan$ gcc sed.c -o sed
+sed.c:22:22: warning: incompatible pointer types passing 'char *' to parameter of type 'FILE *' (aka 'struct __sFILE *')
+      [-Wincompatible-pointer-types]
+    find_and_replace(argv[i]);
+                     ^~~~~~~
+sed.c:5:29: note: passing argument to parameter 'file' here
+void find_and_replace(FILE* file){
+                            ^
+1 warning generated.
+MacBook-Pro-Grigory-2:task2 ivan$ ./sed a.txt
+Too few arguments, requires at least 3: Undefined error: 0
+MacBook-Pro-Grigory-2:task2 ivan$ ./sed a b a.txt
+Segmentation fault: 11
+MacBook-Pro-Grigory-2:task2 ivan$ man fgetc
+MacBook-Pro-Grigory-2:task2 ivan$ gcc sed.c -o sed
+sed.c:22:22: warning: incompatible pointer types passing 'char *' to parameter of type 'FILE *' (aka 'struct __sFILE *')
+      [-Wincompatible-pointer-types]
+    find_and_replace(argv[i]);
+                     ^~~~~~~
+sed.c:5:29: note: passing argument to parameter 'file' here
+void find_and_replace(FILE* file){
+                            ^
+1 warning generated.
+MacBook-Pro-Grigory-2:task2 ivan$ ./sed a b a.txt
+Segmentation fault: 11
+MacBook-Pro-Grigory-2:task2 ivan$ gcc sed.c -o sed
+MacBook-Pro-Grigory-2:task2 ivan$ ./sed a b a.txt
+H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+Segmentation fault: 11
+MacBook-Pro-Grigory-2:task2 ivan$ gcc sed.c -o sed
+MacBook-Pro-Grigory-2:task2 ivan$ ./sed a b a.txt
+H | e | l | l | o |   | p | a | s | a | n | i | ! | 
+ | MacBook-Pro-Grigory-2:task2 ivan$ ls
+a.txt	sed	sed.c	wc	wc.c
+MacBook-Pro-Grigory-2:task2 ivan$ wc a.txt
+       1       2      14 a.txt
+MacBook-Pro-Grigory-2:task2 ivan$ ./wc a.txt
+sasat 
+symb_count = 14
+ words_count = 2
+ str_count = 1
+MacBook-Pro-Grigory-2:task2 ivan$ ./wc a.txt
+sasat 
+symb_count = 14
+ words_count = 2
+ str_count = 1
+MacBook-Pro-Grigory-2:task2 ivan$ ls
+a.txt	sed	sed.c	wc	wc.c
+MacBook-Pro-Grigory-2:task2 ivan$ gcc wc.c -o wc
+wc.c:14:8: warning: implicit declaration of function 'isspace' is invalid in C99 [-Wimplicit-function-declaration]
+    if(isspace(curr_symb) && isWord){
+       ^
+1 warning generated.
+MacBook-Pro-Grigory-2:task2 ivan$ ./wc a.txt
+1  2  14 
+MacBook-Pro-Grigory-2:task2 ivan$ gcc wc.c -o wc
+wc.c:14:8: warning: implicit declaration of function 'isspace' is invalid in C99 [-Wimplicit-function-declaration]
+    if(isspace(curr_symb) && isWord){
+       ^
+1 warning generated.
+MacBook-Pro-Grigory-2:task2 ivan$ ./wc a.txt
+1  2  14  a.txt
+MacBook-Pro-Grigory-2:task2 ivan$ 
+Hello pasani!

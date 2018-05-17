@@ -1,0 +1,1028 @@
+			exit(10);
+			perror("This is SPARTA!!!");
+			printf("%c", c);
+			printf("%c", c);
+		FILE* f;
+		close(fd);
+		close(fd);
+		exit(EXIT_FAILURE);
+		exit(EXIT_FAILURE);
+		exit(EXIT_FAILURE);
+		exit(EXIT_FAILURE);
+		fclose(f);
+		fprintf(stderr,"Usage: %s string\n",argv[0]);
+		if(f == NULL){
+		int c = 0;
+		int c = 0;
+		perror("mmap");
+		perror("shm_open");
+		perror("unmmap");
+		while((c = fgetc(f)) != EOF){
+		while((c = getchar()) != EOF){
+		}
+		}
+		}
+	 	for(;i < argc;++i){
+	 	int i = 1;
+	    }
+	char* mem = mmap(NULL, len, PROT_READ | PROT_WRITE, MAP_SHARED, fd, 0);
+	ftruncate(fd, len);
+	if (fd == -1){
+	if (mem == MAP_FAILED) {
+	if (munmap(mem, len) == -1) {
+	int fd = shm_open("mem", O_RDWR | O_CREAT, 0600);
+	len=strlen(argv[1])+1;
+	strcpy(mem,argv[1]);
+	}
+	}
+	}
+	}
+	}
+	} else {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  	int len;
+   	if(argc == 1){
+    		f = fopen(argv[i], "r");
+                            Push(0, &curr_word, i, &size);
+                            addNewWord(&words, &words_size, &words_it, curr_word, &size);
+                        Push(0, &curr_word, 1, &size);
+                        Push(0, &words[words_it], 2, &c);
+                        Push(curr_symb, &curr_word, 0, &size);
+                        Push(curr_symb, &words[words_it], 1, &c);
+                        addNewWord(&words, &words_size, &words_it, curr_word, &size);
+                        already_pair = 0;
+                        already_pair = 1;
+                        i = 0;
+                        i = 0;
+                        if(yet_word){
+                        int c = 2;
+                        words_it++;
+                        words_it--;
+                        yet_word = 0;
+                        yet_word = 0;
+                        yet_word = 1;
+                        }
+                    Push(0, &curr_word, i, &size);
+                    Push(curr_symb, &curr_word, i, &size);
+                    addNewWord(&words, &words_size, &words_it, curr_word, &size);
+                    i = 0;
+                    i++;
+                    if(!yet_word){
+                    if((prev_symb == curr_symb) && !already_pair){
+                    in_quotes = curr_symb;
+                    yet_word = 0;
+                    yet_word = 1;
+                    }
+                    }
+                    } else {
+                (*myArg_->buf_)[cross_it] = 1;
+                Push(curr_symb, &curr_word, i, &size);
+                cross_it += p;
+                i++;
+                if(isLexem(curr_symb)){
+                if(yet_word){
+                }
+                }
+                } else if(isQuotes(curr_symb)){
+                } else {
+            (*myArg_->buf_)[num_buf_iterator] = 1;
+            *myArg_->prime_amount += 1;
+            .b_ = right, .prime_amount = &prime_amount};
+            //printf("Added to primes %d: %d \n", local_prime_it, i);
+            //printf("This is new prime number: %d \n", p);
+            Push(i, &primes, local_prime_it, &prime_size);
+            already_pair = 0;
+            cross_it = i;
+            if(isspace(curr_symb)){
+            in_quotes = 0;
+            left = n;
+            left = right;
+            local_prime_it++;
+            my_ls(new_dir, files, i, elem_count);
+            num_buf_iterator += curr_prime;
+            perror("new_dir == NULL");
+            printf("%llu\n", i);
+            printf("st_size == -1 \n");
+            puts("pthread_error");
+            puts("pthread_join error");
+            recv(c, buffer, size, 0);
+            right += default_part;
+            unsigned long long p = i;
+            while(cross_it < myArg_->b_){
+            while(strcmp(buffer, "quit\n")){
+            }
+            }
+            }
+            } else {
+         lines_amount, lines_amount % son_amount + lines_amount / son_amount - 1, lines_amount / son_amount);
+        *curr_word = realloc(*curr_word, *size * sizeof(char));
+        *curr_word = realloc(*curr_word, *size * sizeof(unsigned long long));
+        *files = realloc(*files, *size * sizeof(struct path_size));
+        *size *= 2;
+        *size *= 2;
+        *size *= 2;
+        *words = realloc(*words, *words_size * sizeof(char*));
+        *words_size *= 2;
+        .prime_amount = &prime_amount};
+        // изменять размер сменного массива!!!!!
+        //printf("[ %llu, %llu ] \n", left, right);
+        //printf("\n%d: ", curr_prime);
+        Push(0, &curr_word, i, &size);
+        Push(new_file, files, i, elem_count);
+        a++;
+        addNewWord(&words, &words_size, &words_it, curr_word, &size);
+        args_[thread_it] = (struct MyArguments){.buf_ = &num_buf, .primes_ = &primes, .a_ = left,
+        c = accept(d, NULL, NULL);
+        char* b = ".";
+        char* c = "..";
+        close(c);
+        curr_prime = (*myArg_->primes_)[prime_iterator];
+        exit(1);
+        exit(1);
+        exit(10);
+        exit(10);
+        exit(10);
+        exit(10);
+        i++;
+        if (argc<2){
+        if((*myArg_->buf_)[i] == '\0' && i != 0 && i != 1){
+        if(curr_dir->d_type == DT_DIR && strcmp(curr_dir->d_name, b) && strcmp(curr_dir->d_name, c)){
+        if(in_quotes == 0){
+        if(left + default_part > n){
+        if(new_dir == NULL){
+        if(num_buf[i] == 0 && i != 0 && i != 1){
+        if(num_buf[i] == 0) {
+        if(prev_symb != curr_symb){
+        if(pthread_create(&threads[thread_it], NULL, cross_not_primes, &(args_[thread_it]))){
+        if(pthread_join(threads[i], NULL)){
+        if(stat1.st_size == -1){
+        int a = lstat(new_dir, &stat1);
+        isNull(*curr_word);
+        isNull(*curr_word);
+        isNull(files);
+        k = atoll(argv[1]);
+        k = curr_symb;
+        k--;
+        k[i] = i;
+        k[i] = i;
+        n = atoll(argv[2]);
+        new_dir = calloc(strlen(dir) + strlen(curr_dir->d_name) + 5, sizeof(char));
+        num_buf_iterator = left + (curr_prime - left % curr_prime) % curr_prime;
+        perror("-----Null_ptr-----");
+        perror("-----Null_ptr-----");
+        perror("-----Null_ptr-----");
+        perror("----Not pair quotes----");
+        perror("bind");
+        perror("dir == NULL");
+        perror("listen");
+        prime_iterator++;
+        printf(" %lu %s \n", files[j].size_, files[j].path_);
+        printf("-----------------------------------\n ACCESS TO %s IS DENIED FOR THIS USER! \n-----------------------------------\n", new_dir);
+        printf("\"%s\"\n", words[i]);
+        pthread_create(threads + i, NULL, f, k + i);
+        pthread_create(threads + i, NULL, f, k + i);
+        pthread_join(threads[i], &p);
+        pthread_join(threads[i], &p);
+        puts("args_ == NULL");
+        puts("primes initialization failed");
+        puts("threads == NULL");
+        r_find(new_dir, name, user_id);
+        return -1;
+        return 1;
+        return a;
+        return;
+        sprintf(new_dir, "%s/%s", dir, curr_dir->d_name);
+        struct path_size new_file = {new_dir, stat1.st_size};
+        struct stat stat1;
+        thread_it++;
+        while(1){
+        while(num_buf_iterator <= myArg_->b_){
+        }
+        }
+        }
+        }
+        }
+        }
+        }
+        }
+        }
+        }
+        }
+        }
+        }
+        } else if(!(curr_symb == in_quotes)){
+        } else {
+        } else {
+       to < lines_amount; from = to, to += lines_amount / son_amount) {
+      ++temp;
+      close(c);
+      close(r);
+      close(w);
+      dup2(r, 0);
+      dup2(w, 1);
+      get_inf_f(argv[i], &str_count, &words_count, &symb_count);
+      if(!access(new_dir, R_OK)){
+      isWord = 0;
+      isWord = 0;
+      lines_amount++;
+      perror("Obtaining information about this directory failed \n");
+      perror("new_dir == NULL \n");
+      printf(" '%s' is NOT a file \n", argv[i]);
+      printf("%s\n", new_dir);
+      return;
+      return;
+      str_count++;
+      str_count++;
+      words_count++;
+      words_count++;
+      }
+      } else {
+    (*curr_word)[i] = curr_symb;
+    (*curr_word)[i] = curr_symb;
+    (*files)[*i] = file;
+    (*words)[*words_it] = calloc(*size, sizeof(char));
+    (*words_it)++;
+    *i = *i + 1;
+    //prime numbers buffer
+    //printf("%d %llu %llu \n", argc, k, n);
+    //printf("%s\n", test[i]);
+    //printf("%s\n", test[i]);
+    //printf("\n == cross [%d, %d] ===", myArg_->a_, myArg_->b_);
+    //printf("\n");
+    DIR* dir_ = opendir(dir);
+    FD_SET(0, &rfds);
+    FD_ZERO(&rfds);
+    a += temp;
+    c = p[0];
+    char * buffer = malloc(1024*sizeof(char));
+    char k = 0;
+    char* b = ".";
+    char* c = "..";
+    char* curr_word = calloc(2, sizeof(char));//текущее слово
+    char* new_dir;
+    char* num_buf = calloc(n + 10, 1);
+    char* path_;
+    char* where = argv[1];
+    char** buf_;
+    char** words = calloc(words_size, sizeof(char*));//массив слов
+    close(fd);
+    close(read_);
+    close(write_);
+    closedir(dir_);
+    do_fork(argv[i], read_, write_, c);
+    eratosphen(&arguments);
+    execlp(f, f, NULL);
+    exit(10);
+    exit(10);
+    exit(10);
+    exit(2);
+    exit(EXIT_FAILURE);
+    exit(EXIT_FAILURE);
+    fd_set rfds;
+    for( int i = 0; i < threadsNum; ++i ) {
+    for( int i = 0; i < threadsNum; ++i ) {
+    for( int i = 0; i < threadsNum; ++i ) {
+    for( int i = 0; i < threadsNum; ++i ) {
+    for( int i = 0; i < threadsNum; ++i ) {
+    for( int i = 0; i < threadsNum; ++i ) {
+    for( int i = k ; i < threadsNum * 500000000; i += threadsNum ) {
+    for( long long i = k ; i < threadsNum * 500000000L; i += threadsNum ) {
+    for(int i = 0; i < words_it; i++){
+    for(int j = 0; j < i; j++){
+    for(unsigned long long i = 0; i < k; i++){
+    for(unsigned long long i = 2; i < n; i++){
+    for(unsigned long long i = myArg_->a_; i < myArg_->b_; i++){
+    free(buffer);
+    get_inf();
+    i++;
+    i++;
+    if (a != -1 && S_ISREG(stat2.st_mode)) {
+    if (curr_symb == '\n') {
+    if(!strcmp(curr_dir->d_name, name) && this_dir_info.st_uid == user_id->pw_uid){
+    if(((struct path_size*) a)->size_ < ((struct path_size*) b)->size_){
+    if(*size <= *i + 1){
+    if(*size <= i + 1){
+    if(*size <= i + 1){
+    if(*words_size <= *words_it + 1){
+    if(a == '\'' || a == '"'){
+    if(a == -1){
+    if(a == NULL){
+    if(a == NULL){
+    if(a == NULL){
+    if(argc == 3) {
+    if(argc >= 2){
+    if(args_ == NULL){
+    if(bind(d, (struct sockaddr *)&servaddr, sizeof(servaddr))<0){
+    if(c){
+    if(curr_dir->d_type == DT_DIR && strcmp(curr_dir->d_name, b) && strcmp(curr_dir->d_name, c)){
+    if(curr_symb == '\n'){
+    if(curr_symb == '\n'){
+    if(dir == NULL){
+    if(dir_ == NULL){
+    if(in_quotes){
+    if(isspace(curr_symb) && !isspace(prev_symb)){
+    if(isspace(curr_symb) && !isspace(prev_symb)){
+    if(listen(d, 10)<0){
+    if(myComp(lines[main_it] < ))
+    if(new_dir == NULL){
+    if(num_buf == NULL){
+    if(r != 0){
+    if(threads == NULL){
+    if(w != 1){
+    if(yet_word){
+    int *k = (int*)malloc(threadsNum * sizeof(int));
+    int *k = (int*)malloc(threadsNum * sizeof(int));
+    int a = lstat(new_dir, &this_dir_info);
+    int a = stat(argv[i], &stat2);
+    int already_pair = 0;//флаг что парную лексему уже добавили
+    int b = pthread_mutex_init(&mutex_, NULL);
+    int c;
+    int curr_symb = 0;//текущий символ
+    int d  = socket(AF_INET, SOCK_STREAM, IPPROTO_IP);
+    int i = 0;//итератор по текущему слову
+    int in_quotes = 0;//флаг нахождения в кавычках
+    int k = *(int *)p;
+    int k = *(int *)p;
+    int k = 10;
+    int prev_symb = 0;// предыдущий символ
+    int size = 1-1;
+    int size = 2;//размер текущего слова
+    int temp = 0;
+    int words_it = 0;//итератор по массиву слов
+    int words_size = 1;//размер массива слов
+    int yet_word = 0;//флаг нового слова
+    isWord = 1;
+    isWord = 1;
+    j++;
+    kill(getpid(), SIGUSR2);
+    kill(pid, SIGUSR1);
+    lines[i] = calloc(1, sizeof(char *));
+    long long temp = 0;
+    long size_;
+    memcpy((*words)[*words_it], curr_word, *size);
+    my_ls(where, &files, &i, &elem_count);
+    new_dir = calloc(strlen(dir) + strlen(curr_dir->d_name) + 3, sizeof(char));
+    perror("Invalid user");
+    perror("dir == NULL");
+    perror("execlp failed");
+    perror("input file error");
+    perror("mmap");
+    perror("output file error");
+    perror("shm_read");
+    pipe(p);
+    prev_symb = curr_symb;
+    prev_symb = curr_symb;
+    prev_symb = curr_symb;
+    printf("%d\n", a);
+    printf("%lld\n", a);
+    printf("%s", lines[i]);
+    printf("%s", lines[i]);
+    printf("Amount of arguments should be 2, %d given.", argc - 1);
+    printf("sort [%d, %d]\n", from, to);
+    pthread_mutex_destroy(&mutex_);
+    pthread_mutex_lock(&mutex_);
+    pthread_mutex_unlock(&mutex_);
+    pthread_t *threads = (pthread_t *) malloc(sizeof(pthread_t) * threadsNum);
+    pthread_t *threads = (pthread_t *) malloc(sizeof(pthread_t) * threadsNum);
+    pthread_t* threads = (pthread_t*) calloc(k, sizeof(pthread_t));
+    puts("Sorted");
+    qsort(files, i, sizeof(struct path_size), myComp);
+    qsort(lines + left, right - left, sizeof(char *), myComp);
+    qsort(words, words_it, sizeof(char*), myComp);
+    read_ = p[0];
+    return 0;
+    return 0;
+    return 0;
+    return 0;
+    return 0;
+    return 0;
+    return 0;
+    return 0;
+    return 1;
+    return 1;
+    return 1;
+    return NULL;
+    return NULL;
+    return NULL;
+    return NULL;
+    return a == '|' || a == '&' || a == ';';
+    return strcmp(*(char* const*) a, *(char* const*) b);
+    return;
+    return;
+    servaddr.sin_addr.s_addr = htonl(INADDR_ANY);
+    servaddr.sin_family = AF_INET;
+    servaddr.sin_port = htons(8080);
+    size_t elem_count = 10;
+    size_t i = 0;
+    sleep(2);
+    sortPart(from, to, lines);
+    sprintf(new_dir, "%s/%s", dir, curr_dir->d_name);
+    ssize_t s;
+    struct MyArguments arguments = {.buf_ = &num_buf, .primes_ = &primes, .a_ = 2, .b_ = sqrt_n,
+    struct MyArguments* args_ = (struct MyArguments*) calloc(k, sizeof(struct MyArguments));
+    struct MyArguments* myArg_ = (struct MyArguments*) myArg;
+    struct MyArguments* myArg_ = (struct MyArguments*) myArg;
+    struct dirent* curr_dir;
+    struct path_size* files = calloc(elem_count, sizeof(struct path_size));
+    struct sockaddr_in servaddr;
+    struct stat stat2;
+    struct stat this_dir_info;
+    symb_count++;
+    symb_count++;
+    test[i] = calloc(10, sizeof(char));
+    test[i][0] = 'a' + (i * i) % 10;
+    unsigned long long a_;
+    unsigned long long b_;
+    unsigned long long cross_it = myArg_->a_;
+    unsigned long long curr_prime = 0;
+    unsigned long long default_part = (n - sqrt_n) / k;
+    unsigned long long i = 0;
+    unsigned long long i_;
+    unsigned long long k = 10000LL;
+    unsigned long long left = myArg_->a_;
+    unsigned long long left = sqrt_n;
+    unsigned long long local_prime_it = 0;
+    unsigned long long n = 10000000000LL;
+    unsigned long long num_buf_iterator = left;
+    unsigned long long prime_amount = 0;
+    unsigned long long prime_iterator = 0;
+    unsigned long long prime_size = 5;
+    unsigned long long right = left + default_part + (n - sqrt_n) % k;
+    unsigned long long sqrt_n = (unsigned long long) sqrt(n);
+    unsigned long long thread_it = 0;
+    unsigned long long* prime_amount;
+    unsigned long long* primes = calloc(prime_size, sizeof(unsigned long long));
+    unsigned long long* size_;
+    unsigned long long** primes_;
+    void *p;
+    void *p;
+    wait(0);
+    wait(0);
+    while((curr_dir = readdir(dir_)) != NULL){
+    while((curr_symb = getchar()) != EOF){
+    while(k>0){
+    while(left != n) {
+    while(local_prime_it != prime_amount){
+    while(prime_iterator < *myArg_->prime_amount){
+    words_count++;
+    words_count++;
+    write_ = p[1];
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    } else if (((struct path_size*) a)->size_ > ((struct path_size*) b)->size_){
+    } else {
+  *a += str_count;
+  *b += words_count;
+  *c += symb_count;
+  DIR* dir_ = opendir(dir);
+  FILE *in = fopen(name_of_file, "r");
+  FILE *out = fopen("output.txt", "w");
+  FILE* file = fopen(file_name, "r");
+  char **lines = create_shared_memory(lines_amount * sizeof(char *));
+  char **test = calloc(10, sizeof(char *));
+  char *name_of_file = argv[1];
+  char* mem = mmap(NULL, 4096, PROT_READ, MAP_SHARED, fd, 0);
+  char* name = argv[2];
+  char* new_dir;
+  char* user = argv[3];
+  char* where = argv[1];
+  close(read_);
+  closedir(dir_);
+  do_fork(argv[i], read_, 1, -1);
+  exit(10);
+  exit(10);
+  exit(10);
+  exit(10);
+  exit(10);
+  for (char i = 0; i < 10; i++) {
+  for (char i = 0; i < 10; i++) {
+  for (int from = 0, to = lines_amount % son_amount + lines_amount / son_amount - 1;
+  for (int i = 0; (symb_amount = getline(&lines[i], &(lines_sizes[i]), in)) != -1; i++) {
+  for (int i = 0; i < lines_amount; i++) {
+  for (int i = 0; i < lines_amount; i++) {
+  if (argc != 3) {
+  if (fd == -1){
+  if (in == NULL) {
+  if (mem == MAP_FAILED) {
+  if (out == NULL) {
+  if (pid) {
+  if(!p){
+  if(argc == 1){
+  if(dir == NULL){
+  if(dir_ == NULL){
+  if(isWord){
+  if(isWord){
+  if(pid){
+  if(user_id == NULL){
+  in = fopen("input.txt", "r");
+  int a = sigaction(SIGINT, &new_, NULL);
+  int a = sigaction(SIGUSR1, &new1_, NULL);
+  int a1 = sigaction(SIGUSR2, &new2_, NULL);
+  int c = 0;
+  int curr_symb = 0;
+  int curr_symb = 0;
+  int curr_symb;
+  int fd = shm_open("mem", O_RDWR, 0);
+  int i = 1;
+  int isWord = 0;
+  int isWord = 0;
+  int j = 0;
+  int len;
+  int main_it = 0;
+  int p[2];
+  int part_it = from;
+  int prev_symb = 0;
+  int prev_symb = 0;
+  int protection = PROT_READ | PROT_WRITE;
+  int read_ = 0;
+  int son_amount = atoll(argv[2]);
+  int str_count = 0;
+  int str_count = 0;
+  int str_count = 0;
+  int symb_amount = 0;
+  int symb_count = 0;
+  int symb_count = 0;
+  int symb_count = 0;
+  int visibility = MAP_ANONYMOUS | MAP_SHARED;
+  int words_count = 0;
+  int words_count = 0;
+  int words_count = 0;
+  int write_;
+  pid_t p = fork();
+  pid_t pid = fork();
+  pid_t pid = fork();
+  printf("%d  %d  %d    total \n", str_count, words_count, symb_count);
+  printf("%d  %d  %d  %s\n", str_count, words_count, symb_count, file_name);
+  printf("%s \n", mem);
+  printf("\n %d  %d  %d    input\n", str_count, words_count, symb_count);
+  printf("\n %d \n", getpid());
+  printf("\n father->son %d \n", getpid());
+  printf("\n father->son %d \n", getpid());
+  printf("\n son->father %d \n", getpid());
+  printf("\n son->father %d \n", getpid());
+  printf("name_of_file %s\n", name_of_file);
+  printf("son_amount = %d\nlines_amount %d\n from = 0 \n to = %d\n lines_amount/son_amount = %d\n", son_amount,
+  printf("sorted\n");
+  qsort(test, 10, sizeof(char *), myComp);
+  r_find(where, name, user_id);
+  return 0;
+  return 0;
+  return 0;
+  return 0;
+  return mmap(NULL, size, protection, visibility, 0, 0);
+  return strcmp(*(char *const *) a, *(char *const *) b);
+  size_t *lines_sizes = calloc(lines_amount, sizeof(size_t));
+  size_t i = 1;
+  size_t lines_amount = 1;
+  struct dirent* curr_dir;
+  struct passwd* user_id = getpwnam(user);
+  struct sigaction new1_ = {myHandler1, 1, 1};
+  struct sigaction new2_ = {myHandler2, 1, 1};
+  struct sigaction new_ = {myHandler, 1, 1};
+  struct sigaction* old_;
+  struct stat* stat1;
+  while ((curr_symb = getc(in)) != EOF) {
+  while (i < argc){
+  while((curr_dir = readdir(dir_)) != NULL){
+  while((curr_symb = fgetc(file)) != EOF){
+  while((curr_symb = getchar()) != EOF){
+  while(1);
+  while(1);
+  while(i < argc - 1) {
+  while(j < argc - 1){
+  while(main_it < from && part_it < to){
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  } else {
+  } else {
+#include <ctype.h>
+#include <dirent.h>
+#include <dirent.h>
+#include <dirent.h>
+#include <dirent.h>
+#include <errno.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <fcntl.h>
+#include <fcntl.h>
+#include <malloc.h>
+#include <math.h>
+#include <memory.h>
+#include <memory.h>
+#include <netinet/in.h>
+#include <netinet/ip.h>
+#include <pthread.h>
+#include <pthread.h>
+#include <pthread.h>
+#include <pwd.h>
+#include <pwd.h>
+#include <signal.h>
+#include <signal.h>
+#include <signal.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdlib.h>
+#include <stdlib.h>
+#include <stdlib.h>
+#include <stdlib.h>
+#include <stdlib.h>
+#include <stdlib.h>
+#include <stdlib.h>
+#include <stdlib.h>
+#include <stdlib.h>
+#include <stdlib.h>
+#include <stdlib.h>
+#include <stdlib.h>
+#include <string.h>
+#include <string.h>
+#include <string.h>
+#include <string.h>
+#include <string.h>
+#include <string.h>
+#include <strings.h>
+#include <sys/dir.h>
+#include <sys/dir.h>
+#include <sys/mman.h>
+#include <sys/mman.h>
+#include <sys/mman.h>
+#include <sys/socket.h>
+#include <sys/stat.h>
+#include <sys/stat.h>
+#include <sys/stat.h>
+#include <sys/stat.h>
+#include <sys/stat.h>
+#include <sys/stat.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <sys/types.h>
+#include <sys/types.h>
+#include <sys/types.h>
+#include <sys/types.h>
+#include <sys/types.h>
+#include <sys/types.h>
+#include <sys/wait.h>
+#include <sys/wait.h>
+#include <time.h>
+#include <unistd.h>
+#include <unistd.h>
+#include <unistd.h>
+#include <unistd.h>
+#include <unistd.h>
+#include <unistd.h>
+#include <unistd.h>
+#include <unistd.h>
+#include <unistd.h>
+//
+//
+//
+//        printf("\"%s\"\n", (*words)[i]);
+//    for(int i = 0; i < *words_it; i++){
+//    }
+//  Copyright © 2018 Ivan. All rights reserved.
+//  Created by Ivan on 13.03.18.
+//  main.c
+//  strings_v2
+//#include <malloc.h>
+//MergeSort
+//cat
+//catch signal
+//chat
+//create_shared_memory
+//eratosphen
+//examples
+//father_son_signal
+//my_ls
+//pipes
+//pthreads
+//r_find
+//seminars
+//seminars
+//strings
+//wc
+=========================================================================
+=========================================================================
+=========================================================================
+=========================================================================
+=========================================================================
+=========================================================================
+=========================================================================
+=========================================================================
+=========================================================================
+=========================================================================
+=========================================================================
+=========================================================================
+=========================================================================
+=========================================================================
+int a = 0;
+int isLexem(int a){
+int isNull(char* a){
+int isNull(char* a){
+int isNull(void* a){
+int isQuotes(int a){
+int main(int argc, char ** argv){
+int main(int argc, char ** argv){
+int main(int argc, char **argv) {
+int main(int argc, char** argv){
+int main(int argc, char** argv){
+int main(int argc, char** argv){
+int main(int argc, char** argv){
+int main(int argc, char** argv){
+int main(int argc, char** argv){
+int main(int argc, char** argv){
+int main(int argc, char** argv){
+int main(int argc, const char * argv[]) {
+int main(int argc, const char * argv[]) {
+int main(int argc, const char * argv[]) {
+int main(int argc, const char * argv[]) {
+int myComp(const void *a, const void *b) {
+int myComp(const void* a, const void* b){
+int myComp(const void* a, const void* b){
+int threadsNum=10;
+int threadsNum=10;
+long long a = 0;
+pthread_mutex_t mutex_;
+struct MyArguments{
+struct path_size {
+void * f( void *p ) {
+void * f( void *p ) {
+void *create_shared_memory(size_t size) {
+void FatherExitHandler(int a) {
+void MergeSortedPart(int from, int to, char**lines, char* sorted_parts, char** new_sorted_parts){
+void Push(int curr_symb, char** curr_word, int i, int* size){
+void Push(struct path_size file, struct path_size** files, size_t* i, size_t* size){
+void Push(unsigned long long curr_symb, unsigned long long** curr_word, unsigned long long i, unsigned long long* size){
+void SonExitHandler(int a) {
+void addNewWord(char*** words, int* words_size, int* words_it, char* curr_word, int* size){
+void do_fork(char* f, int r, int w, int c){
+void get_inf(){
+void get_inf_f(char* file_name, int* a, int* b, int* c){
+void myHandler(int a){
+void myHandler1(int a){
+void myHandler2(int a){
+void my_ls(char* dir, struct path_size** files, size_t* i, size_t* elem_count){
+void r_find(char* dir, char* name, struct passwd* user_id){
+void sortPart(int left, int right, char **lines) {
+void* cross_not_primes(void* myArg){
+void* eratosphen(void* myArg){
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+};
+};
